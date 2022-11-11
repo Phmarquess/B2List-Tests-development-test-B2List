@@ -1,0 +1,112 @@
+.h1{
+    background-color:#C0C0C0 ;
+    margin-top: 0%;
+    margin-left: 0%;
+    padding: 0px 50px 0px 6px ;
+}
+.h2{
+    margin: 1px #000;
+    float: left;
+    font-size: 10px;
+    background-color: #E6E6E6;
+    margin-top: -22px;
+    border: 1px solid #000;
+    padding: 0px 100px 0px 6px ;
+    
+}
+.container{
+ box-shadow: 1px 1px #000;
+ 
+}
+.cadastro-form{
+    margin-top: 5%;
+    margin-left: 30%;
+}
+.form-field{
+    display: inline-block;
+    padding: 2% 60% 2% 2% ;
+    margin-top: 20px;
+    font-size: 100%;
+}
+.form-error{
+    display: block;
+   color: red;
+   font-size: 12px;
+   font-weight: 600;
+}
+.cadastro-button
+{
+    margin-left: 170px;
+}
+.button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding: 3px 20px 3px 19px ;
+}
+.buttonsave{
+    padding: 4px 22px 4px 22px ;
+}
+
+.pesquisa-form{
+    margin-top: 0%;
+    margin-left: 20%;
+}
+.form-field-pesquisa{
+    display: inline-block;
+    padding: 1% 2% 1% 2% ;
+    font-size: 100%;
+    border-radius: 4px;
+   
+
+}
+.buttonPesquisa{
+    display: inline-block;
+    margin-left: -3px;
+    padding: 1% 2% 1% 2% ;
+    border-radius: 4px;
+    font-size: 100%
+    
+}
+
+.buttonCadastro{
+    display: inline-block;
+    margin-left:40%;
+    padding: 1% 2% 1% 2% ;
+    border-radius: 4px;
+    font-size: 100%
+}
+
+table.sample {
+	border-width: 4px;
+	border-spacing: 2px;
+	border-style: none;
+	border-color: black;
+	border-collapse: collapse;
+	background-color: white;
+}
+table.sample th {
+	border-width: 2px;
+	padding: 5px;
+	border-style: inset;
+	border-color: gray;
+	background-color: rgb(201, 201, 201);
+    padding: 14px 102px 14px 102px ;
+    font-size: 22px;
+    
+}
+table.sample td {
+	border-width: 2px;
+	padding: 5px;
+	border-style: inset;
+	border-color: gray;
+	background-color: white; 
+    padding: 4px 22px 4px 22px ;
+    font-size: 22px;
+}
+.table{
+    margin-top: 5%;
+}
+.page{
+    margin-top: 5%;
+}
